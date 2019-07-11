@@ -1,0 +1,16 @@
+C:\Users\emre_\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\emre_\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\emre_\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\emre_\source\repos\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\emre_\source\repos\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\emre_\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\emre_\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\emre_\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\emre_\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\emre_\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\emre_\source\repos\Project\Project\bin\Debug\EntityFramework.dll
+C:\Users\emre_\source\repos\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emre_\source\repos\Project\Project\bin\Debug\EntityFramework.xml
+C:\Users\emre_\source\repos\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emre_\source\repos\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\emre_\source\repos\Project\Project\obj\Debug\Project.Employees.resources
